@@ -8,7 +8,6 @@ Contacts
 
 * **Email:**: kirfedodesk@gmail.com
 
-
 * **GitHub:**: [Kirfed](https://github.com/Kirfed)
 
 **About Me**
