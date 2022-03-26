@@ -17,7 +17,6 @@ I have skills and a lot of experience with Wordpress+Eementor+HTML+CSS.
 I've been working on Upwork for a long time and have been in the top ranks there for several years. My rating rarely dropped below 100%, but after Putin's war started all Russians and Belarusians were banned there. Now I don't have a job.
 No war!
 
-
 **Skills**
 *********
 
