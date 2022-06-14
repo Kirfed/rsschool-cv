@@ -35,6 +35,10 @@ header ul a{
     background-color: white;
     padding: 20px;
 }
+pre {
+    text-align: left;
+    white-space: pre-line;
+  }
 footer{ 255);
     color: white;
 }
